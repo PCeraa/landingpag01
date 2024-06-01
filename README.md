@@ -20,7 +20,7 @@ English: <br>
 
 ## 💻 Preview <a href="https://pceraa.github.io/landingpag01/" target="_blank">🔗</a>
 
-[alt text](image-1.png)
+![alt text](image-1.png)
 
 ## 📃 License 
 
